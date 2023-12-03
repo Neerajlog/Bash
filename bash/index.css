@@ -35,3 +35,14 @@ body {
         width: 50%;
         height: auto;
     }
+
+    #table{
+        text-align: center;
+    }
+
+    .image-container{
+        display: block;
+        margin-left: 40%;
+        width:25%
+        
+    }
